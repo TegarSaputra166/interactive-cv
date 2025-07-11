@@ -10,7 +10,7 @@ const educationHistory = [
   {
     id: 2,
     period: '2020 - 2023',
-    institution: 'SMAN 1 JAKENAN',
+    institution: 'SMAN 1 PATI',
     major: 'IPA'
   },
   {
